@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayush Sharma 👋</h1>
+<h1 align="center">ABOUT ME</h1>
 
 <p align="center">
   🚀 B.Tech IT Student | 💻 Full-Stack Developer | 🧠 DSA & CP Enthusiast
@@ -6,7 +6,6 @@
 
 ---
 
-## 🚀 About Me
 - 🎓 Passionate about **building, exploring, and creating** tech solutions  
 - 🌱 Currently learning: **React, Next.js, Supabase, MongoDB**  
 - 💻 Sharpening my **DSA & Competitive Programming** skills in **C++**  
@@ -41,6 +40,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Open Source Contributions
+
+### Future AGI
+- ✅ PR #932 Merged
+- Fixed sub-cent cost formatting in Gateway Request Logs
+
+### Open Design
+- ✅ PR #4414 Approved (awaiting merge)
+- Added Kimi K2.7 model ID normalization and test coverage
 
 ---
 
